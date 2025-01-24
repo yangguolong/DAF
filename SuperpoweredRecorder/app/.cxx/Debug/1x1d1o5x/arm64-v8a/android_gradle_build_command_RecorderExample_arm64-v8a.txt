@@ -1,0 +1,7 @@
+Executable : /Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/1x1d1o5x/arm64-v8a
+RecorderExample
+jvmArgs : 
+

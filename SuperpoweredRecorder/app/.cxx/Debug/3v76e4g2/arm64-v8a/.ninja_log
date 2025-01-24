@@ -1,0 +1,10 @@
+# ninja log v5
+0	1031	1737638281	CMakeFiles/RecorderExample.dir/Users/yangdaxia/Desktop/DAF/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o	2ab7e88432b1848c
+2	2616	1737638282	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	5e33ee390e46e3c0
+2617	3004	1737638282	../../../../build/intermediates/cxx/Debug/3v76e4g2/obj/arm64-v8a/libRecorderExample.so	a02b973d06ddf6b5
+12	3294	1737736456	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	5e33ee390e46e3c0
+3294	4169	1737736457	../../../../build/intermediates/cxx/Debug/3v76e4g2/obj/arm64-v8a/libRecorderExample.so	a02b973d06ddf6b5
+4	2817	1737736758	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	5e33ee390e46e3c0
+2817	3554	1737736759	../../../../build/intermediates/cxx/Debug/3v76e4g2/obj/arm64-v8a/libRecorderExample.so	a02b973d06ddf6b5
+30	4127	1737737308	CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o	5e33ee390e46e3c0
+4127	5569	1737737310	../../../../build/intermediates/cxx/Debug/3v76e4g2/obj/arm64-v8a/libRecorderExample.so	a02b973d06ddf6b5

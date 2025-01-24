@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/1x1d1o5x/x86_64",
+  "command": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DRecorderExample_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/../../../Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o -c /Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/src/main/cpp/RecorderExample.cpp",
+  "file": "/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/src/main/cpp/RecorderExample.cpp"
+},
+{
+  "directory": "/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/1x1d1o5x/x86_64",
+  "command": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --sysroot=/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DRecorderExample_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/../../../Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles/RecorderExample.dir/Users/yangdaxia/Downloads/Superpowered/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o -c /Users/yangdaxia/Downloads/Superpowered/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
+  "file": "/Users/yangdaxia/Downloads/Superpowered/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp"
+}
+]

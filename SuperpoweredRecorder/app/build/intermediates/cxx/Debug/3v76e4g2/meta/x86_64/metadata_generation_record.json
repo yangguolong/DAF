@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: x86_64",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2082576546
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64/android_gradle_build.json due to:",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 4364453
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1783259509
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2126471433
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 119909348
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64\u0027",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1796605912
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64\u0027",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1571506764
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d26\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_ANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_C_FLAGS\u003d-O3 -fsigned-char\n-DCMAKE_CXX_FLAGS\u003d-fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../../Superpowered\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/3v76e4g2/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/3v76e4g2/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64\n-GNinja\n-DANDROID_PLATFORM\u003dandroid-26\n-DANDROID_TOOLCHAIN\u003dclang\n-DANDROID_ARM_NEON\u003dTRUE\n-DANDROID_STL\u003dc++_static\n-DPATH_TO_SUPERPOWERED:STRING\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../../Superpowered\njvmArgs : \n\n",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -295221635
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d26\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_ANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_C_FLAGS\u003d-O3 -fsigned-char\n-DCMAKE_CXX_FLAGS\u003d-fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../../Superpowered\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/3v76e4g2/obj/x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/3v76e4g2/obj/x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64\n-GNinja\n-DANDROID_PLATFORM\u003dandroid-26\n-DANDROID_TOOLCHAIN\u003dclang\n-DANDROID_ARM_NEON\u003dTRUE\n-DANDROID_STL\u003dc++_static\n-DPATH_TO_SUPERPOWERED:STRING\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../../Superpowered\njvmArgs : \n\n",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1280349470
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64/compile_commands.json.bin normally",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2119857679
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -192436903
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86_64/metadata_generation_command.txt",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -381243985
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1745636181
+  }
+]

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86",
+  "command": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DRecorderExample_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../../Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o -c /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/cpp/RecorderExample.cpp",
+  "file": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/cpp/RecorderExample.cpp"
+},
+{
+  "directory": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/x86",
+  "command": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android26 --sysroot=/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DRecorderExample_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../../Superpowered -fno-limit-debug-info  -fPIC -o CMakeFiles/RecorderExample.dir/Users/yangdaxia/Desktop/DAF/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp.o -c /Users/yangdaxia/Desktop/DAF/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp",
+  "file": "/Users/yangdaxia/Desktop/DAF/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp"
+}
+]

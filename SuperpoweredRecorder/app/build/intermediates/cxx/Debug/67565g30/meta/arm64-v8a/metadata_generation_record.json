@@ -1,0 +1,128 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: arm64-v8a",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 916646028
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 761178218
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1869068908
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1836091357
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a\u0027",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1282375685
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a\u0027",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -202393327
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d26\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_ANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_C_FLAGS\u003d-O3 -fsigned-char\n-DCMAKE_CXX_FLAGS\u003d-fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a\n-GNinja\n-DANDROID_PLATFORM\u003dandroid-26\n-DANDROID_TOOLCHAIN\u003dclang\n-DANDROID_ARM_NEON\u003dTRUE\n-DANDROID_STL\u003dc++_static\n-DPATH_TO_SUPERPOWERED:STRING\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered\njvmArgs : \n\n",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1217955540
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d26\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_ANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_C_FLAGS\u003d-O3 -fsigned-char\n-DCMAKE_CXX_FLAGS\u003d-fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a\n-GNinja\n-DANDROID_PLATFORM\u003dandroid-26\n-DANDROID_TOOLCHAIN\u003dclang\n-DANDROID_ARM_NEON\u003dTRUE\n-DANDROID_STL\u003dc++_static\n-DPATH_TO_SUPERPOWERED:STRING\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered\njvmArgs : \n\n",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2089345709
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: Build command failed.\nError while executing process /Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/cmake with arguments {-H/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app -DCMAKE_SYSTEM_NAME\u003dAndroid -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON -DCMAKE_SYSTEM_VERSION\u003d26 -DANDROID_ABI\u003darm64-v8a -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a -DANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393 -DCMAKE_ANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393 -DCMAKE_TOOLCHAIN_FILE\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake -DCMAKE_MAKE_PROGRAM\u003d/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja -DCMAKE_C_FLAGS\u003d-O3 -fsigned-char -DCMAKE_CXX_FLAGS\u003d-fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a -DCMAKE_BUILD_TYPE\u003dDebug -B/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a -GNinja -DANDROID_PLATFORM\u003dandroid-26 -DANDROID_TOOLCHAIN\u003dclang -DANDROID_ARM_NEON\u003dTRUE -DANDROID_STL\u003dc++_static -DPATH_TO_SUPERPOWERED:STRING\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered}\n-- Detecting C compiler ABI info\n-- Detecting C compiler ABI info - done\n-- Check for working C compiler: /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped\n-- Detecting C compile features\n-- Detecting C compile features - done\n-- Detecting CXX compiler ABI info\n-- Detecting CXX compiler ABI info - done\n-- Check for working CXX compiler: /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped\n-- Detecting CXX compile features\n-- Detecting CXX compile features - done\n-- Configuring done\n\nCMake Warning (dev) in CMakeLists.txt:\n  No project() command is present.  The top-level CMakeLists.txt file must\n  contain a literal, direct call to the project() command.  Add a line of\n  code such as\n\n    project(ProjectName)\n\n  near the top of the file, but after cmake_minimum_required().\n\n  CMake is pretending there is a \"project(Project)\" command on the first\n  line.\nThis warning is for project developers.  Use -Wno-dev to suppress it.\n\nCMake Warning at /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\n  /Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake:93 (include)\n\n\nCMake Warning at /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\n  /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a/CMakeFiles/3.18.1-g262b901/CMakeSystem.cmake:6 (include)\n  /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Warning at /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\n  An old version of CMake is being used that cannot automatically detect\n  compiler attributes.  Compiler identification is being bypassed.  Some\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\n  CMake\u0027s built-in compiler identification.\nCall Stack (most recent call first):\n  /Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\n  /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a/CMakeFiles/3.18.1-g262b901/CMakeSystem.cmake:6 (include)\n  /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\n\n\nCMake Error at CMakeLists.txt:10 (add_library):\n  Cannot find source file:\n\n    /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/Superpowered/OpenSource/SuperpoweredAndroidAudioIO.cpp\n\n  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm\n  .hpp .hxx .in .txx\n\n\nCMake Error at CMakeLists.txt:10 (add_library):\n  No SOURCES given to target: RecorderExample\n\n\nCMake Generate step failed.  Build files cannot be regenerated correctly.\n",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1989258595
+  }
+]

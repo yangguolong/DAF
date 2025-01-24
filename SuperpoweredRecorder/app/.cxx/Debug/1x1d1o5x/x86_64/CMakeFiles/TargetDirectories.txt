@@ -1,0 +1,3 @@
+/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/1x1d1o5x/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/1x1d1o5x/x86_64/CMakeFiles/edit_cache.dir
+/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/1x1d1o5x/x86_64/CMakeFiles/RecorderExample.dir

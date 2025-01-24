@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.superpowered.recorder"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:4:5-76
+11-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:4:22-74
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:5:5-71
+12-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:5:22-68
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+15        android:name="com.superpowered.recorder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.superpowered.recorder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:7:5-31:19
+21        android:name="com.superpowered.recorder.Application"
+21-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:14:9-36
+22        android:allowBackup="true"
+22-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:8:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="false"
+26-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:9:9-42
+27        android:icon="@mipmap/ic_launcher"
+27-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:10:9-43
+28        android:label="@string/app_name"
+28-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:11:9-41
+29        android:roundIcon="@mipmap/ic_launcher"
+29-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:12:9-48
+30        android:supportsRtl="true"
+30-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:13:9-35
+31        android:testOnly="true"
+32        android:theme="@style/AppTheme" >
+32-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:15:9-40
+33        <service
+33-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:17:9-20:39
+34            android:name="com.superpowered.recorder.RecorderService"
+34-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:18:13-44
+35            android:enabled="true"
+35-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:19:13-35
+36            android:exported="false" />
+36-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:20:13-37
+37
+38        <activity
+38-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:22:9-30:20
+39            android:name="com.superpowered.recorder.MainActivity"
+39-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:23:13-41
+40            android:configChanges="keyboardHidden|orientation|screenSize"
+40-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:25:13-74
+41            android:exported="true" >
+41-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:24:13-36
+42            <intent-filter>
+42-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:26:13-29:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:27:17-69
+43-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:27:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:28:17-77
+45-->/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:28:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+51            android:authorities="com.superpowered.recorder.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>

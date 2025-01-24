@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/ebd7f472ac51cced122847d26763e33c/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yangdaxia/.gradle/caches/transforms-3/02593dd1640d275dff91b775cd483245/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yangdaxia/.gradle/caches/transforms-3/721567791d528f62b3b89c4035f9ac21/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yangdaxia/.gradle/caches/transforms-3/406e9893983a5306642de9b33505b16c/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/814e01608e90d2e15f223771b83df78a/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/98a1a41c5df9085153f9e88fa2e87f80/transformed/jetified-rxbinding-2.1.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.2] /Users/yangdaxia/.gradle/caches/transforms-3/c68ffd469a8f20530c633a4ad4bb3609/transformed/jetified-rxlifecycle-components-2.2.2/AndroidManifest.xml:13:1-18:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] /Users/yangdaxia/.gradle/caches/transforms-3/8d68eb94aa07dc9eeba7cb5091bfe2c7/transformed/jetified-rxlifecycle-android-2.2.2/AndroidManifest.xml:13:1-18:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/912e1cd5e99eec80fcde77e8a33fc308/transformed/jetified-rxandroid-2.1.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.tencent:mmkv:1.2.15] /Users/yangdaxia/.gradle/caches/transforms-3/2de27af8696f8b1bd862876fa978cfc7/transformed/jetified-mmkv-1.2.15/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/d4a104de47ae7518406d188522b6692a/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/a79178e2613fe1fba540a08648699615/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/b57f500061e30bf09f7b993079146eb8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/yangdaxia/.gradle/caches/transforms-3/3894844597be2c61b0799739571945e2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/yangdaxia/.gradle/caches/transforms-3/fa03285019275b341da8c486b31d5e1e/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/82a2bb6a45f4b759b96ea2b620fb2b7f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/232475a573cdf1573a6702bfe3c887d9/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/d91e9dcd9c2de00381d2b116b472aad9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/cdc928cf226c8cb2968716e8f316ce25/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/487fab0192ab8d1d63de78a12448017d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/5355c1b7ad286853bf741e35a99e0d0c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/5e0dcd801aaf932f83d962b73bc9cd9d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/eef0fc204cfd04452e9eb7bcdb0b5417/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/68b644026e6d44e586bef08d699d398c/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/8a8a758ccc678f0f3e378a3a6db0b636/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/bc7aff811882327e72e144a2fd92dc0d/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/8cc50c147564a846782de92db05a696d/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/618da0d5be32f4331090821ff29c7c8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/2dc58ef7f14833d7c4f09b60e2a7a380/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/23e8833450217849e9c22611a1b13257/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/348a6b05627001b07dc7e4379c8e69e4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/40ffe700c27576bb12b0442c3915a511/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/1fb0870679b5e446899b75e75659c638/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/3989702c871fd6d7a510d240bfa7343a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/4f16bbcd0f297480032ef2bc2808f047/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/f018f83f24254d557f5a64612263d87c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/f3a33ece9d187abf4ef4989a71ab7bc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/907b9c43c0ee8dac3f584891d536c3db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/91f03005533d0936f06fafc9c1be41f8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/a913208248f6bd9e49aebd0ab4d9fa2b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/71576f68cf6d0a50df661c6e79e1adf4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/9d5c180947e04f08e3c15f89275fe22a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yangdaxia/.gradle/caches/transforms-3/2f11e522c065eada70e3a3ac5c490e24/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:4:22-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:5:22-68
+application
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:7:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yangdaxia/.gradle/caches/transforms-3/02593dd1640d275dff91b775cd483245/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yangdaxia/.gradle/caches/transforms-3/02593dd1640d275dff91b775cd483245/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/f3a33ece9d187abf4ef4989a71ab7bc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/f3a33ece9d187abf4ef4989a71ab7bc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/907b9c43c0ee8dac3f584891d536c3db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/907b9c43c0ee8dac3f584891d536c3db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:9:9-42
+	android:roundIcon
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:14:9-36
+service#.RecorderService
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:17:9-20:39
+	android:enabled
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:18:13-44
+activity#.MainActivity
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:exported
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:24:13-36
+	android:configChanges
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:25:13-74
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/ebd7f472ac51cced122847d26763e33c/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/ebd7f472ac51cced122847d26763e33c/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yangdaxia/.gradle/caches/transforms-3/02593dd1640d275dff91b775cd483245/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yangdaxia/.gradle/caches/transforms-3/02593dd1640d275dff91b775cd483245/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yangdaxia/.gradle/caches/transforms-3/721567791d528f62b3b89c4035f9ac21/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yangdaxia/.gradle/caches/transforms-3/721567791d528f62b3b89c4035f9ac21/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yangdaxia/.gradle/caches/transforms-3/406e9893983a5306642de9b33505b16c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yangdaxia/.gradle/caches/transforms-3/406e9893983a5306642de9b33505b16c/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/814e01608e90d2e15f223771b83df78a/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/814e01608e90d2e15f223771b83df78a/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/98a1a41c5df9085153f9e88fa2e87f80/transformed/jetified-rxbinding-2.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/98a1a41c5df9085153f9e88fa2e87f80/transformed/jetified-rxbinding-2.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.2] /Users/yangdaxia/.gradle/caches/transforms-3/c68ffd469a8f20530c633a4ad4bb3609/transformed/jetified-rxlifecycle-components-2.2.2/AndroidManifest.xml:16:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.2] /Users/yangdaxia/.gradle/caches/transforms-3/c68ffd469a8f20530c633a4ad4bb3609/transformed/jetified-rxlifecycle-components-2.2.2/AndroidManifest.xml:16:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] /Users/yangdaxia/.gradle/caches/transforms-3/8d68eb94aa07dc9eeba7cb5091bfe2c7/transformed/jetified-rxlifecycle-android-2.2.2/AndroidManifest.xml:16:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.2] /Users/yangdaxia/.gradle/caches/transforms-3/8d68eb94aa07dc9eeba7cb5091bfe2c7/transformed/jetified-rxlifecycle-android-2.2.2/AndroidManifest.xml:16:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/912e1cd5e99eec80fcde77e8a33fc308/transformed/jetified-rxandroid-2.1.0/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/912e1cd5e99eec80fcde77e8a33fc308/transformed/jetified-rxandroid-2.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.tencent:mmkv:1.2.15] /Users/yangdaxia/.gradle/caches/transforms-3/2de27af8696f8b1bd862876fa978cfc7/transformed/jetified-mmkv-1.2.15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent:mmkv:1.2.15] /Users/yangdaxia/.gradle/caches/transforms-3/2de27af8696f8b1bd862876fa978cfc7/transformed/jetified-mmkv-1.2.15/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/d4a104de47ae7518406d188522b6692a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/d4a104de47ae7518406d188522b6692a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/a79178e2613fe1fba540a08648699615/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/a79178e2613fe1fba540a08648699615/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/b57f500061e30bf09f7b993079146eb8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/b57f500061e30bf09f7b993079146eb8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/yangdaxia/.gradle/caches/transforms-3/3894844597be2c61b0799739571945e2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/yangdaxia/.gradle/caches/transforms-3/3894844597be2c61b0799739571945e2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/yangdaxia/.gradle/caches/transforms-3/fa03285019275b341da8c486b31d5e1e/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/yangdaxia/.gradle/caches/transforms-3/fa03285019275b341da8c486b31d5e1e/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/82a2bb6a45f4b759b96ea2b620fb2b7f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/82a2bb6a45f4b759b96ea2b620fb2b7f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/232475a573cdf1573a6702bfe3c887d9/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/232475a573cdf1573a6702bfe3c887d9/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/d91e9dcd9c2de00381d2b116b472aad9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/d91e9dcd9c2de00381d2b116b472aad9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/cdc928cf226c8cb2968716e8f316ce25/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/cdc928cf226c8cb2968716e8f316ce25/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/487fab0192ab8d1d63de78a12448017d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/487fab0192ab8d1d63de78a12448017d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/5355c1b7ad286853bf741e35a99e0d0c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/5355c1b7ad286853bf741e35a99e0d0c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/5e0dcd801aaf932f83d962b73bc9cd9d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/5e0dcd801aaf932f83d962b73bc9cd9d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/eef0fc204cfd04452e9eb7bcdb0b5417/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/eef0fc204cfd04452e9eb7bcdb0b5417/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/68b644026e6d44e586bef08d699d398c/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/68b644026e6d44e586bef08d699d398c/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/8a8a758ccc678f0f3e378a3a6db0b636/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/8a8a758ccc678f0f3e378a3a6db0b636/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/bc7aff811882327e72e144a2fd92dc0d/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/bc7aff811882327e72e144a2fd92dc0d/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/8cc50c147564a846782de92db05a696d/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/8cc50c147564a846782de92db05a696d/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/618da0d5be32f4331090821ff29c7c8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/618da0d5be32f4331090821ff29c7c8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/2dc58ef7f14833d7c4f09b60e2a7a380/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/2dc58ef7f14833d7c4f09b60e2a7a380/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/23e8833450217849e9c22611a1b13257/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/23e8833450217849e9c22611a1b13257/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/348a6b05627001b07dc7e4379c8e69e4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/348a6b05627001b07dc7e4379c8e69e4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/40ffe700c27576bb12b0442c3915a511/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/40ffe700c27576bb12b0442c3915a511/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/1fb0870679b5e446899b75e75659c638/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/1fb0870679b5e446899b75e75659c638/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/3989702c871fd6d7a510d240bfa7343a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/3989702c871fd6d7a510d240bfa7343a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/4f16bbcd0f297480032ef2bc2808f047/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/4f16bbcd0f297480032ef2bc2808f047/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/f018f83f24254d557f5a64612263d87c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/f018f83f24254d557f5a64612263d87c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/f3a33ece9d187abf4ef4989a71ab7bc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/f3a33ece9d187abf4ef4989a71ab7bc5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/907b9c43c0ee8dac3f584891d536c3db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/907b9c43c0ee8dac3f584891d536c3db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/91f03005533d0936f06fafc9c1be41f8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/91f03005533d0936f06fafc9c1be41f8/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/a913208248f6bd9e49aebd0ab4d9fa2b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yangdaxia/.gradle/caches/transforms-3/a913208248f6bd9e49aebd0ab4d9fa2b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/71576f68cf6d0a50df661c6e79e1adf4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/yangdaxia/.gradle/caches/transforms-3/71576f68cf6d0a50df661c6e79e1adf4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/9d5c180947e04f08e3c15f89275fe22a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/yangdaxia/.gradle/caches/transforms-3/9d5c180947e04f08e3c15f89275fe22a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yangdaxia/.gradle/caches/transforms-3/2f11e522c065eada70e3a3ac5c490e24/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yangdaxia/.gradle/caches/transforms-3/2f11e522c065eada70e3a3ac5c490e24/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml
+service#com.superpowered.recorder.RecorderService
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:17:9-20:39
+	android:enabled
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:18:13-44
+activity#com.superpowered.recorder.MainActivity
+ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:exported
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:24:13-36
+	android:configChanges
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:25:13-74
+	android:name
+		ADDED from /Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/AndroidManifest.xml:23:13-41
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/907b9c43c0ee8dac3f584891d536c3db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yangdaxia/.gradle/caches/transforms-3/907b9c43c0ee8dac3f584891d536c3db/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yangdaxia/.gradle/caches/transforms-3/3d0bfe47796d210d202931174ba52e42/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.superpowered.recorder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.superpowered.recorder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/yangdaxia/.gradle/caches/transforms-3/e61dd02c6833558187b686f28a1a3625/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/yangdaxia/.gradle/caches/transforms-3/8617de8af0086838968cb46c9ebb5945/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

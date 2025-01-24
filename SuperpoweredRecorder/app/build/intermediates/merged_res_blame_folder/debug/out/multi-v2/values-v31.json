@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/src/main/res/values-v31/styles.xml",
+                    "from": {
+                        "startLines": "3,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,996",
+                        "endLines": "19,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "990,1164"
+                    },
+                    "to": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,958",
+                        "endLines": "18,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "953,1126"
+                    }
+                }
+            ]
+        }
+    ]
+}

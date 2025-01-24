@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: arm64-v8a",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2047327729
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/3v76e4g2/arm64-v8a/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 774055565
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 920317177
+  }
+]

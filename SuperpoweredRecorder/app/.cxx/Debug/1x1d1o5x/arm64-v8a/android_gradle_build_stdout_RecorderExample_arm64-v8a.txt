@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/yangdaxia/Downloads/Superpowered/Examples_Android/SuperpoweredRecorder/app/.cxx/Debug/1x1d1o5x/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/RecorderExample.dir/src/main/cpp/RecorderExample.cpp.o
+[2/2] Linking CXX shared library ../../../../build/intermediates/cxx/Debug/1x1d1o5x/obj/arm64-v8a/libRecorderExample.so

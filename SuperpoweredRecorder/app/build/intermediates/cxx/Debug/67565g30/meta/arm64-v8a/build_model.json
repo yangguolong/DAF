@@ -1,0 +1,185 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a",
+  "soFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a",
+  "soRepublishFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "abiPlatformVersion": 26,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_PLATFORM\u003dandroid-26",
+      "-DANDROID_TOOLCHAIN\u003dclang",
+      "-DANDROID_ARM_NEON\u003dTRUE",
+      "-DANDROID_STL\u003dc++_static",
+      "-DPATH_TO_SUPERPOWERED:STRING\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered"
+    ],
+    "cFlagsList": [
+      "-O3",
+      "-fsigned-char"
+    ],
+    "cppFlagsList": [
+      "-fsigned-char",
+      "-I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered"
+    ],
+    "variantName": "debug",
+    "soFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj",
+    "soRepublishFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cmake/debug/obj",
+    "cxxBuildFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30",
+    "intermediatesFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx",
+      "intermediatesBaseFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates",
+      "intermediatesFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app",
+      "moduleBuildFile": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build.gradle",
+      "makeFile": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393",
+      "ndkVersion": "25.1.8937393",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 19,
+        "max": 33,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32,
+          "Tiramisu": 33
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+        "minimumCmakeVersion": "3.18.1",
+        "ninjaExe": "/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder",
+        "sdkFolder": "/Users/yangdaxia/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": []
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/prefab/arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "67565g303af3u28646gs60wm46486v31665v2qk3h4o1c5z146e454q6k5k",
+  "configurationArguments": [
+    "-H/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d26",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/yangdaxia/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/yangdaxia/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-DCMAKE_C_FLAGS\u003d-O3 -fsigned-char",
+    "-DCMAKE_CXX_FLAGS\u003d-fsigned-char -I/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/build/intermediates/cxx/Debug/67565g30/obj/arm64-v8a",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-B/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/.cxx/Debug/67565g30/arm64-v8a",
+    "-GNinja",
+    "-DANDROID_PLATFORM\u003dandroid-26",
+    "-DANDROID_TOOLCHAIN\u003dclang",
+    "-DANDROID_ARM_NEON\u003dTRUE",
+    "-DANDROID_STL\u003dc++_static",
+    "-DPATH_TO_SUPERPOWERED:STRING\u003d/Users/yangdaxia/Desktop/DAF/SuperpoweredRecorder/app/../Superpowered"
+  ]
+}
